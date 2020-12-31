@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   lit_firebase_auth: ^0.3.0
   file_picker: ^2.1.4
+  stripe_api: ^1.1.0
 
 dev_dependencies:
   flutter_test:
